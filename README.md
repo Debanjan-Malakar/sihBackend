@@ -1,10 +1,11 @@
-### Our team
+### `Our team`
 # front-end team:-
 1.Abhinabha Paul
 
 2.Priyojit Kundu
 
 3.Arati Kumari
+
 4.Subhodeep Mukherjee 
 # Backend team:-
 1.Shuvam Sardar
